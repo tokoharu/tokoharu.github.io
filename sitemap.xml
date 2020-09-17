@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tokoharu.github.io/posts/</loc>
+    <lastmod>2020-09-18T00:12:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tokoharu.github.io/</loc>
+    <lastmod>2020-09-18T00:12:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tokoharu.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-09-18T00:12:16+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tokoharu.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>http://tokoharu.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://tokoharu.github.io/</loc>
   </url>
   
 </urlset>
