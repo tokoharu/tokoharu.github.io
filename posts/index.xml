@@ -13,7 +13,8 @@
       <pubDate>Fri, 18 Sep 2020 00:12:16 +0900</pubDate>
       
       <guid>http://tokoharu.github.io/posts/my-first-post/</guid>
-      <description>GitHub pages + Hugo</description>
+      <description>GitHub pages + Hugo で作ってみた
+$$ f(x)= ∑_{k=0}^{∞} \frac{ f^{(k)}(x_0)}{n!} \left( x-x_0 \right)^k $$</description>
     </item>
     
   </channel>
